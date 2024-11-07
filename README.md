@@ -48,9 +48,9 @@ AnimeGen is designed to work smoothly on any device running iOS or iPadOS 13.
 > Please note that while AnimeGen should function on all compatible devices, the user experience may vary depending on the specific device model and its performance capabilities.
 
 ## Screenshots
-
+<push>
 <div align="center">
-<table>
+<table> 
   <tbody>
   <tr>
     <td><img src="https://raw.githubusercontent.com/cranci1/AnimeGen/main/Images/screenshots/apis.png" width=200px></td>
